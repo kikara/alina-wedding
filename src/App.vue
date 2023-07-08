@@ -8,7 +8,7 @@ function scrollDown() {
 </script>
 
 <template>
-    <div class="container" style="color: white">
+    <div class="container">
 
         <div class="pt-5">
             <div class="text-uppercase container text-center text-invitation">Приглашаем на свадьбу</div>
@@ -66,9 +66,7 @@ function scrollDown() {
 .names {
     font-family: 'French Kiss', serif;
     font-size: 5rem;
-    //color: #242966;
-    //color: #112075;
-    color: white;
+    color: #68166d;
 }
 
 .location {
