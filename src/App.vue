@@ -66,7 +66,7 @@ function scrollDown() {
 .names {
     font-family: 'French Kiss', serif;
     font-size: 5rem;
-    color: #68166d;
+    color: #162a6d;
 }
 
 .location {
