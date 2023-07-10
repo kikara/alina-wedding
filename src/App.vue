@@ -48,7 +48,7 @@ function scrollDown() {
 .names-box {
     font-size: 3rem;
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 0;
     width: 100%;
     display: flex;
@@ -125,7 +125,7 @@ function scrollDown() {
 .day::before {
     font-size: 1.2rem;
     line-height: 1.2rem;
-    content: '10:00';
+    content: '12:00';
     position: absolute;
     left: calc(50% - 21px);
     top: -1rem;

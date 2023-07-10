@@ -12,24 +12,10 @@
             <div class="text-center invitation__header">Программа</div>
             <div class="container fz-3">
                 <div class="row">
-                    <div class="col fz-5 text-end program-header__header">10:00</div>
-                    <div class="col">
-                        <div class="fz-3 program-header__header text-start">Алтай той</div>
-                        <div class="fz-2">с. Усть-Кан, ул. Лесная, д. 51</div>
-                    </div>
-                </div>
-                <div class="row mt-2">
                     <div class="col fz-5 text-end program-header__header">12:00</div>
                     <div class="col">
                         <div class="fz-3 program-header__header text-start">Белкенчек</div>
                         <div class="fz-2">с. Усть-Кан, ул. Космонавтов, д. 17</div>
-                    </div>
-                </div>
-                <div class="row mt-2">
-                    <div class="col fz-5 text-end program-header__header">16:00</div>
-                    <div class="col">
-                        <div class="fz-3 program-header__header text-start">Свадьба</div>
-                        <div class="fz-2">с. Усть-Кан турбаза Ирбизек</div>
                     </div>
                 </div>
             </div>
