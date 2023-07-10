@@ -36,13 +36,6 @@
             <div class="text-center invitation__header">Баир & Алина</div>
             <div class="container">
                 <div class="d-flex flex-wrap justify-content-center gap-3 mb-3">
-                    <div><img src="../assets/photos/1.jpg" alt="" class="rounded-3 shadow" width="300"></div>
-                    <div class="d-flex flex-column gap-3">
-                        <img src="../assets/photos/2.jpg" alt="" class="rounded-3 shadow " width="300">
-                        <img src="../assets/photos/3.jpg" alt="" class="rounded-3 shadow " width="300">
-                    </div>
-                    <div><img src="../assets/photos/4.jpg" alt="" class="rounded-3 shadow" width="300"></div>
-                    <div><img src="../assets/photos/5.jpg" alt="" class="rounded-3 shadow" width="300"></div>
                     <div><img src="../assets/photos/6.jpg" alt="" class="rounded-3 shadow" width="300"></div>
                 </div>
             </div>
